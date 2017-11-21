@@ -1,0 +1,10 @@
+diff a/dist/pricing.html b/dist/pricing.html	(rejected hunks)
+@@ -91,7 +91,7 @@
+         <section id="top" class="intro">
+           <div class="col margin_auto float_none align_center bottom_padding no_right_padding">
+             <h1 class="large align_center">Pricing Guide</h1>
+-            <h2 class="align_center">Otonomic is free to use for as long as you want,<br class="hide_on_mobile">and with unlimited traffic.</h2>
++            <h2 class="align_center">Otonomic is <strong>free</strong> to use for as long as you want,<br>and with unlimited traffic.</h2>
+           </div>
+         </section>
+         <section class="plans">
